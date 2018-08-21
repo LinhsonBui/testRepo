@@ -5,7 +5,6 @@ public class srwgh {
 	public static void main(String[] args) {
 		int x = 0;
 		
-		changeY(x);
 		changeX(x);
 	}
 	
