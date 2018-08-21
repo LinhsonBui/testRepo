@@ -9,7 +9,7 @@ public class srwgh {
 	}
 	
 	public static int changeY(int c) {
-		return c = 10;
+		return c = 9;
 	}
 
 }
