@@ -3,10 +3,8 @@ package adfg;
 public class srwgh {
 	//idk java syntax :^(
 	public static void main(String[] args) {
-		int x = 0;
 		int y = 0;
 		
-		changeY(x);
 		changeY(y);
 	}
 	
