@@ -4,12 +4,16 @@ public class srwgh {
 	//idk java syntax :^(
 	public static void main(String[] args) {
 		int x = 0;
+		int y = 0;
 		
 		changeY(x);
+		changeY(y);
 	}
 	
 	public static int changeY(int c) {
 		return c = 9;
+	public static int changeY(int z) {
+		return z = 10;
 	}
 
 }
