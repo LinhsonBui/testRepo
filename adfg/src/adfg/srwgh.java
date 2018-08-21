@@ -9,9 +9,11 @@ public class srwgh {
 	}
 	
 	public static int changeY(int c) {
+<<<<<<< HEAD
 		return c = 9;
 	public static int changeY(int z) {
 		return z = 10;
+=======
 	}
 
 }
