@@ -3,12 +3,13 @@ package adfg;
 public class srwgh {
 	//idk java syntax :^(
 	public static void main(String[] args) {
-		int y = 0;
+		int x = 0;
 		
-		changeY(y);
+		changeY(x);
 	}
 	
 	public static int changeY(int c) {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		return c = 9;
@@ -18,6 +19,9 @@ public class srwgh {
 >>>>>>> parent of 4af08a4... return 9
 =======
 >>>>>>> parent of 4af08a4... return 9
+=======
+		return c = 10;
+>>>>>>> parent of d191496... changed variable names
 	}
 
 }
