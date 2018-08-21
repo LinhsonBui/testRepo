@@ -1,7 +1,7 @@
 package adfg;
 
 public class srwgh {
-
+	//idk java syntax :^(
 	public static void main(String[] args) {
 		int x = 0;
 		

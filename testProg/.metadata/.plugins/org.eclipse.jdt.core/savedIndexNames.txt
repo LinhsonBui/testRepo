@@ -1,3 +1,0 @@
-INDEX VERSION 1.130+C:\Users\Linhson\Documents\GitHub\testProg\.metadata\.plugins\org.eclipse.jdt.core
-3017952843.index
-4145947884.index
