@@ -5,10 +5,10 @@ public class srwgh {
 	public static void main(String[] args) {
 		int x = 0;
 		
-		changeX(x);
+		changeY(x);
 	}
 	
-	public static int changeX(int c) {
+	public static int changeY(int c) {
 		return c = 10;
 	}
 
