@@ -6,8 +6,10 @@ public class srwgh {
 		int x = 0;
 		
 		changeY(x);
+		changeX(x);
 	}
 	
+<<<<<<< HEAD
 	public static int changeY(int c) {
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20,6 +22,9 @@ public class srwgh {
 =======
 >>>>>>> parent of 4af08a4... return 9
 =======
+=======
+	public static int changeX(int c) {
+>>>>>>> parent of 5d13af0... changeX to changeY
 		return c = 10;
 >>>>>>> parent of d191496... changed variable names
 	}
